@@ -1,5 +1,5 @@
 {
-  "name": "json-pointer",
+  "name": "@deepakvk/json-pointer",
   "description": "Some utilities for JSON pointers described by RFC 6901",
   "version": "1.0.0",
   "license": "MIT",
